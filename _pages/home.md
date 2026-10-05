@@ -17,8 +17,8 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-seo_title: "{title} | Smart Web Agency"
-seo_description: "Web agency a Roma dal 2013: siti web, e-commerce, SEO, Google Ads e brand identity su misura per imprenditori, start up e PA. Prima consulenza gratuita, risposta entro 24 ore."
+seo_title: "{title} | Impianti fotovoltaici"
+seo_description: "Impianti fotovoltaici chiavi in mano per casa e azienda: sopralluogo e preventivo gratuiti, progetto, installazione, accumulo e pratiche per gli incentivi. Risposta entro 24 ore."
 ---
 
 <style>
@@ -76,13 +76,13 @@ html[data-theme="dark"] .prj-home-more a{border-color:rgba(255,255,255,.3)}
 <!-- ===== MARTE END (html) ===== -->
 <canvas id="rete-cv" aria-hidden="true"></canvas>
 
-## Web Agency a Roma dal 2013, al fianco della crescita del tuo business.
+## Energia solare per la tua casa e la tua azienda, dal progetto all'attivazione.
 
-Comunicazione, web marketing e sviluppo di piattaforme digitali: aiutiamo imprenditori, start up e grandi aziende a crescere, nel privato come nella Pubblica Amministrazione. Ogni progetto nasce da un'analisi su misura del business e degli obiettivi, combinando creatività e concretezza per ottenere risultati misurabili.
+Progettiamo e installiamo impianti fotovoltaici su misura, con pannelli, inverter e sistemi di accumulo scelti in base ai tuoi consumi, al tetto e al budget. L'obiettivo è farti produrre l'energia che usi davvero, per ridurre la bolletta e dipendere meno dalla rete.
 
-Un team unico di professionisti coordina ogni fase, dalla strategia al risultato: siti, e-commerce, campagne, brand identity e applicativi su misura. Rispondiamo entro 24 ore, festivi esclusi, e la prima consulenza è gratuita.
+Con la formula chiavi in mano ti seguiamo in ogni fase: sopralluogo, progetto, installazione, collegamento alla rete e pratiche per gli incentivi disponibili. Rispondiamo entro 24 ore, festivi esclusi, e il sopralluogo con preventivo è gratuito.
 
-**Vuoi far crescere il tuo business?** Scrivici su WhatsApp o richiedi un preventivo: costruiamo insieme la soluzione giusta per te.
+**Vuoi sapere quanto puoi risparmiare?** Scrivici su WhatsApp o richiedi un preventivo: valutiamo insieme la soluzione giusta per il tuo tetto.
 
 </div>
 
